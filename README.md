@@ -1,1 +1,1 @@
-Bu projeler gittiğim python dili eğitimi kursundan sonra yaptığım ilk projelerim.
+These are the first projects I made after the Python language training course I attended.
